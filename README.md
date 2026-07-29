@@ -8,15 +8,6 @@ software engineering. Eager to learn, grow, and apply problem-solving and teamwo
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 # 📊 GitHub Stats:
-2
- 
-3
-![Amin'sgithub-readme-stats.vercel.app/api?username=Am66097&theme=shadow_green&show_icons=true
-4
- 
-5
-![GitHub Streak](reak-stats.vercel.app/?user=Am66097&theme=shadow_green
-6
- 
-7
-![Top Languages](https://github-readme-stats.vercels/?username=Am66097&theme=shadow_green&layout=compact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Am66097&show_icons=true&locale=en&layout=compact&theme=dark" />
+</p>
