@@ -8,11 +8,15 @@ software engineering. Eager to learn, grow, and apply problem-solving and teamwo
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Am66097&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Am66097&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Am66097&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Am66097&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+2
+ 
+3
+![Amin'sgithub-readme-stats.vercel.app/api?username=Am66097&theme=shadow_green&show_icons=true
+4
+ 
+5
+![GitHub Streak](reak-stats.vercel.app/?user=Am66097&theme=shadow_green
+6
+ 
+7
+![Top Languages](https://github-readme-stats.vercels/?username=Am66097&theme=shadow_green&layout=compact
