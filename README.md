@@ -1,4 +1,4 @@
-[# 💫 About Me:
+[[# 💫 About Me:
 software engineering. Eager to learn, grow, and apply problem-solving and teamwork skills in realworld projects. Actively improving coding skills and exploring new technologies to contribute<br>effectively in a professional environment.
 
 
@@ -16,6 +16,11 @@ software engineering. Eager to learn, grow, and apply problem-solving and teamwo
 [![](https://visitcount.itsvg.in/api?id=Am66097&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/amin-a-484832321
+aminsomaa1212@gmail.com
+https://www.facebook.com/share/1D9opPQi5v/
+https://www.tiktok.com/@aminashrafsoma?_r=1&_t=ZS-98RntnQ2GPM
+https://www.instagram.com/aminashrafsoma?igsh=MThuY2lmODdiZHJxOQ==)
 ](https://www.linkedin.com/in/amin-a-484832321
 aminsomaa1212@gmail.com
 https://www.facebook.com/share/1D9opPQi5v/
